@@ -170,7 +170,7 @@
 		* Having very little knowledge and practice, you'll find that you can make some pretty cool things.
 * NOTE: As you learn more about computer science, you'll find out that most languages really aren't that much different. Once you learn one, you can learn another quickly and easily.
 
-![Python vs. Java Meme](https://images.duckduckgo.com/iu/?u=http%3A%2F%2Fpythonthusiast.pythonblogs.com%2Fgallery%2F230%2Fpython-vs-java-726367-copy.jpg&f=1)
+![Python vs. Java Meme](https://robotixblog.files.wordpress.com/2011/10/python-vs-java-726367-copy.jpg)
 
 ## Advice for how to succeed as a cs student here at osu
 
